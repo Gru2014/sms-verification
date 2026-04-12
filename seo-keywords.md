@@ -7,6 +7,8 @@ Use this keyword set across:
 - blog posts linked from this repo
 - landing pages on trustsmss.com
 
+**Why searches may not show your site yet:** Google does not use the `meta keywords` tag for ranking. Results depend on page quality, relevance, backlinks, crawlability, and competition. Put phrases in the **visible** title, meta description, headings, and body copy (for example on the homepage and public FAQ), submit the sitemap in Google Search Console, and wait for indexing.
+
 ## Primary keywords
 
 - receive sms online
